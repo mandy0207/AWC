@@ -109,7 +109,7 @@ a:focus {
 }
 
 .custom_nav-container .nav_search-btn {
-  background-image: url(../images/search-icon.png);
+  background-image: url(/static/images/search-icon.png);
   background-size: 22px;
   background-repeat: no-repeat;
   background-position-y: 7px;
@@ -146,14 +146,14 @@ a:focus {
 }
 
 .custom_nav-container .navbar-toggler .navbar-toggler-icon {
-  background-image: url(../images/menu.png);
+  background-image: url(/static/images/menu.png);
   background-size: 30px;
 }
 
 /*end header section*/
 /* slider section */
 .slider_section {
-  background-image: url(../images/demo.jpg);
+  background-image: url(/static/images/demo.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 90%;
@@ -418,11 +418,11 @@ a:focus {
 }
 
 .client_section .carousel-control-prev {
-  background-image: url(../images/prev.png);
+  background-image: url(/static/images/prev.png);
 }
 
 .client_section .carousel-control-next {
-  background-image: url(../images/next.png);
+  background-image: url(/static/images/next.png);
 }
 
 .contact_section {
