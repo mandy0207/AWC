@@ -165,8 +165,8 @@ a:focus {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
- -webkit-animation: animate 24s ease-in-out 4s  alternate-reverse;
-  animation: animate 24s ease-in-out 4s infinite alternate-reverse;
+ -webkit-animation: animate 24s ease-in-out 1s  alternate-reverse;
+  animation: animate 24s ease-in-out 1s infinite alternate-reverse forwards;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
